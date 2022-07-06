@@ -1,19 +1,20 @@
 # Frontend Mentor - Space tourism website solution
 
-This is a solution to the [Space tourism website challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/space-tourism-multipage-website-gRWj1URZ3). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/b08120ef-3182-4009-897d-27ec3b3a3d08/deploy-status)](https://app.netlify.com/sites/space-website-frontend-challenge/deploys)
+
+ [Checkout the live site here](https://space-website-frontend-challenge.netlify.app)
+
+This is a solution to the [Space tourism website challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/space-tourism-multipage-website-gRWj1URZ3). 
 
 ## Table of contents
 
 - [Overview](#overview)
   - [The challenge](#the-challenge)
-  - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
   - [Continued development](#continued-development)
   - [Useful resources](#useful-resources)
-- [Author](#author)
-- [Acknowledgments](#acknowledgments)
 
 ## Overview
 
@@ -25,11 +26,6 @@ Users should be able to:
 - See hover states for all interactive elements on the page
 - View each page and be able to toggle between the tabs to see new information
 
-
-### Links
-
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ## My process
 
