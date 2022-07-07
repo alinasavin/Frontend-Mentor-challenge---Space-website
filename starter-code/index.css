@@ -289,8 +289,15 @@ select {
     list-style: none;
     padding: 0;
     margin: 0;
-    background: hsl( var(--clr-white) / 0.05);
-    backdrop-filter: blur(1.5rem);
+    background: hsl( var(--clr-dark) / 0.95);
+    /* backdrop-filter: blur(1.5rem); */
+}
+
+@supports (backdrop-filter: blur(1.5rem)) {
+    .primary-navigation {
+        background: hsl( var(--clr-white) / 0.05);
+        backdrop-filter: blur(1.5rem);
+    }
 }
 
 .primary-navigation a {

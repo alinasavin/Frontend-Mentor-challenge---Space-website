@@ -43,8 +43,15 @@ Users should be able to:
 
 - Responsive UX/UI development
 - Using CSS grid and Flexbox to create responsive and dynamic layouts
+  - grid is much more structured with a lot of control for the parent element 
+- CSS camp - allows to set a min and max value for a certain property ( e.g font-size)
 - The power of CSS custom properties and utility classes
-- Dealing witj browser support and accesibility
+- Dealing with browser support and accesibility
+  - @supports CSS at-rule lets you specify declarations that depend on browser's support for one or more specific CSS feature - in this case I used the backdrop-filter property to create the glass effect for the navigation menu which is not supported by Firefox 
+  - creating a sr-only(screen reader only) utility class for the the hamburger menu - onlu those using  a screen reader can access the word "Menu"
+  - adding and aria-hidden class of ture to certain tags to hide the content from screen readers
+  - adding a skip to content link is an internal navigation link that help users move around a page added for accesibility enhancement. This lets keyboard users and screen readers jump from the top of the page to the content without have to go through other elements on the page first.
+
 
 
 ### Continued development
